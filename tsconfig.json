@@ -19,7 +19,8 @@
       }
     ],
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "ai/react": ["./node_modules/ai/react/dist/index.mjs"]
     }
   },
   "include": [
