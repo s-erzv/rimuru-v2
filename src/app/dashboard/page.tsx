@@ -1,6 +1,6 @@
 'use client';
 
-import { useChat } from 'ai/react';
+import { useChat } from '@ai-sdk/react';
 import { Calendar as CalendarIcon, Wallet, CreditCard, MessageSquare, TrendingUp } from 'lucide-react';
 import { ChatPanel } from '@/components/chat/ChatPanel';
 import { FinanceSummary } from '@/components/dashboard/FinanceSummary';
